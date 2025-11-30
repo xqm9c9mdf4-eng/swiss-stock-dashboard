@@ -1,1 +1,1 @@
-streamlitpandasyfinanceplotlyrequestslxml
+streamlityfinancepandasplotlyrequestsbeautifulsoup4lxml
